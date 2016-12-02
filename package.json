@@ -1,0 +1,19 @@
+{
+  "name": "nodepostgres",
+  "version": "1.0.0",
+  "description": "My study in using node and postgresql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjcamillo/NodePostgres.git"
+  },
+  "author": "Francisc Camillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fjcamillo/NodePostgres/issues"
+  },
+  "homepage": "https://github.com/fjcamillo/NodePostgres#readme"
+}
